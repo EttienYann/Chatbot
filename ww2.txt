@@ -1,0 +1,14 @@
+La Data Science est une discipline qui se situe à la croisée des sciences, des mathématiques et de l’informatique. Elle a connu une démocratisation massive grâce à l’avènement du Big Data, au mouvement Open Source et à l’émergence de solutions low-code. Aujourd'hui, il est plus facile que jamais de découvrir les tendances cachées derrière les données.
+
+En collaborant avec nos Data Scientists et experts en Machine Learning, vous pouvez vous approprier les bonnes pratiques de la Data Science et de l’Intelligence Artificielle pour les mettre en œuvre et industrialiser vos projets.
+
+L'intelligence artificielle (IA) désigne la capacité des machines à simuler l'intelligence humaine. Grâce à des algorithmes sophistiqués et à l'apprentissage automatique, les systèmes d'IA peuvent résoudre des problèmes complexes, prendre des décisions et apprendre à partir des données. Les applications de l'IA sont diverses, allant des assistants virtuels aux voitures autonomes en passant par la prédiction des tendances économiques
+
+Le football, également connu sous le nom de soccer dans certains pays, est le sport le plus populaire au monde. Il se joue entre deux équipes de onze joueurs chacune, avec pour objectif de marquer des buts en envoyant le ballon dans le but adverse. Le football suscite une passion mondiale et est un vecteur de valeurs telles que la compétition, le fair-play et la camaraderie.
+
+Les mathématiques sont la science des nombres, de la structure, de l'espace et du changement. Elles jouent un rôle crucial dans presque tous les domaines de la connaissance humaine, de la physique à la biologie en passant par l'économie. Les principaux domaines des mathématiques comprennent l'algèbre, la géométrie, le calcul différentiel et intégral, ainsi que la théorie des probabilités.
+
+Le Big Data fait référence à la gestion et à l'analyse de vastes ensembles de données complexes qui dépassent les capacités des outils de gestion de bases de données traditionnels. Les technologies Big Data permettent de stocker, de manipuler et d'analyser ces données pour en extraire des informations précieuses et des tendances cachées. Les applications du Big Data vont de la prévision météorologique à l'analyse de marché en passant par la médecine personnalisée.
+
+La blockchain est une technologie de stockage et de transmission d'informations de manière sécurisée, transparente et décentralisée. Elle est principalement connue pour être le fondement des cryptomonnaies comme le Bitcoin, mais elle trouve également des applications dans divers secteurs tels que la logistique, la gestion des chaînes d'approvisionnement et la certification des transactions.
+
