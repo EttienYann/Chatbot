@@ -1,14 +1,15 @@
 import nltk
+import os
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import string
 import streamlit as st
-
+nltk.data.path.append(os.path.expanduser('~/.nltk_data'))
 # Télécharger des ressources nécessaires de nltk
 nltk.download('punkt')
 nltk.download('stopwords')
-nltk.download('wordnet')
+nltk.download('wordnet')    
 
 # Charger le fichier texte et prétraiter les données
 file_path = 'ww2.txt'
