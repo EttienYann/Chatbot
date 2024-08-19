@@ -1,11 +1,10 @@
 import nltk
-import os
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import string
 import streamlit as st
-nltk.data.path.append(os.path.expanduser('~/.nltk_data'))
+
 # Télécharger des ressources nécessaires de nltk
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -31,7 +30,7 @@ def preprocess(sentence):
     # Tokeniser la phrase en mots
     words = word_tokenize(sentence)
     # Supprimer les stopwords et la ponctuation
-    words = [word.lower() for word in words if word.lower() not in stopwords.words('english') and word not in string.punctuation]
+    words = [word.lower() for word in words if word.lower() not in stopwords.words('french') and word not in string.punctuation]
     # Lemmatiser les mots
     lemmatizer = WordNetLemmatizer()
     words = [lemmatizer.lemmatize(word) for word in words]
